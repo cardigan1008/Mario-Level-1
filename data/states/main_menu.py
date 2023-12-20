@@ -12,7 +12,7 @@ class Menu(tools._State):
         tools._State.__init__(self)
         persist = {c.COIN_TOTAL: 0,
                    c.SCORE: 0,
-                   c.LIVES: 3,
+                   c.LIVES: 1,
                    c.TOP_SCORE: 0,
                    c.CURRENT_TIME: 0.0,
                    c.LEVEL_STATE: None,
