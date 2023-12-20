@@ -9,9 +9,9 @@ CONTROLS:
 
 Arrow keys for direction
 
-'a' for jump
+Space for jump
 
-'s' for action (fireball, run)
+Enter for action (fireball, run)
 
 
 DEPENDENCIES:
