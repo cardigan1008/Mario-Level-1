@@ -5,7 +5,7 @@ import pygame as pg
 
 keybinding = {
     'action': pg.K_RETURN,
-    'jump': pg.K_SPACE,
+    'jump': pg.K_UP,
     'left': pg.K_LEFT,
     'right': pg.K_RIGHT,
     'down': pg.K_DOWN
